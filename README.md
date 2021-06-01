@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
-- 💬 Ask me about Cackend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
+- 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
 - 📫 How to reach me: nermineslimane@gmail.com
 
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical)
