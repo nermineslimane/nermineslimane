@@ -5,11 +5,9 @@
 - 💬 Ask me about Cackend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
 - 📫 How to reach me: nermineslimane@gmail.com
 
-- 📫 Global stats !
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical)
 
-- 📫 Time spent coding !
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane)](https://github.com/anuraghazra/github-readme-stats)
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
