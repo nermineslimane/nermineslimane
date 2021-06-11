@@ -5,7 +5,8 @@
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
 - 📫 How to reach me: nermineslimane@gmail.com
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical&count_private=true)
+
 
     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane)](https://github.com/anuraghazra/github-readme-stats)
 
