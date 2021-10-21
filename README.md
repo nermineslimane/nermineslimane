@@ -8,13 +8,11 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical&count_private=true&layout=compact)
     
     
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermineslimane&exclude_repo=github-readme-stats,nermineslimane.github.io)](https://github.com/nermineslimane/github-readme-stats)
-
-
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermineslimane&hide=java,html&layout=compact)](https://github.com/nermineslimane/github-readme-stats)
+
 
 
 
