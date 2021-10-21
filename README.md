@@ -8,7 +8,7 @@
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical&count_private=true&layout=compact)
 
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
