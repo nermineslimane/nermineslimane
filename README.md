@@ -1,7 +1,4 @@
-
-
-[![Spotify](https://novatorem-lsgglgkjw-nermineslimane.vercel.app/api/spotify)](https://open.spotify.com/user/317l53qcjaxgppc4x6sckrepis4i)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nermineslimane)](https://git.io/streak-stats)
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cynoia platform
