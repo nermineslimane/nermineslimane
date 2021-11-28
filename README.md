@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nermineslimane)](https://git.io/streak-stats)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cynoia platform
