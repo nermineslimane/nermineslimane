@@ -1,6 +1,6 @@
 
 
-[![Spotify](https://novatorem-chi-two.vercel.app/api/spotify)](https://open.spotify.com/user/317l53qcjaxgppc4x6sckrepis4i)
+[![Spotify](https://novatorem-rog8gny24-nermineslimane.vercel.app/api/spotify)](https://open.spotify.com/user/317l53qcjaxgppc4x6sckrepis4i)
 
 ### Hi there 👋
 
