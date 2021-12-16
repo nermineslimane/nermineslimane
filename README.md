@@ -15,7 +15,7 @@
 ### How much time i spend coding
 note i'm using the free version so it keeps only stats of the last two weeks
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&layout=compact)](https://github.com/nermineslimane/github-readme-stats)
 
 
 
