@@ -1,6 +1,8 @@
 
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg)](https://wakatime.com/@6d8178e5-672f-4748-822a-19d296c7c179)
+
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
@@ -14,8 +16,6 @@
 
 ### How much time i spend coding
 note i'm using the free version so it keeps only stats of the last two weeks
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&layout=compact)](https://github.com/nermineslimane/github-readme-stats)
 
 
 
