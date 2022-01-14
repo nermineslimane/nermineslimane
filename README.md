@@ -19,6 +19,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to structure your Express and Node.Js project](https://dev.to/nermineslimane/how-to-structure-your-express-and-nodejs-project-3bl)
+- [Hello world in nodeJS](https://dev.to/nermineslimane/hello-world-in-nodejs-35lm)
 <!-- BLOG-POST-LIST:END -->
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
