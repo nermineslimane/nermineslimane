@@ -17,6 +17,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermineslimane&hide=java,html&layout=compact)](https://github.com/nermineslimane/github-readme-stats)
 
 
-
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
