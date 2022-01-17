@@ -2,9 +2,6 @@
 <a href="https://stackexchange.com/users/19670331"><img src="https://stackexchange.com/users/flair/19670331.png" width="208" height="58" alt="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Hi there :wink:
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
@@ -25,9 +22,9 @@
 <a href="https://www.instagram.com/nermine.slimane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 📊 &nbsp;**This week I spent my time on**
+
   
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical&count_private=true&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Stackoverflow&nbsp;activity</b></summary>
