@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
-- 📫 How to reach me: nermineslimane@gmail.com
-- 
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [What is .env ? How to Set up and test a .env file in Node?](https://dev.to/nermineslimane/what-is-env-how-to-set-up-and-test-a-env-file-in-node-18bl)
@@ -25,8 +24,8 @@
 <a href="https://www.instagram.com/nermine.slimane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 📊 &nbsp;**This week I spent my time on**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical&count_private=true&layout=compact)
 
-![Wakatime stats]((https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
   <summary><b>📈&nbsp;&nbsp;Stackoverflow&nbsp;activity</b></summary>
   <br/>
