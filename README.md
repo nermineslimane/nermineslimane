@@ -1,13 +1,12 @@
 
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg)](https://wakatime.com/@6d8178e5-672f-4748-822a-19d296c7c179)
 <a href="https://stackexchange.com/users/19670331"><img src="https://stackexchange.com/users/flair/19670331.png" width="208" height="58" alt="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+### Hi there 👋
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
 - 📫 How to reach me: nermineslimane@gmail.com
-- 
-### This is How much time I spend coding
-[![wakatime](https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg)](https://wakatime.com/@6d8178e5-672f-4748-822a-19d296c7c179)
 
 ### My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical&count_private=true&layout=compact)
