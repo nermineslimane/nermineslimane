@@ -4,27 +4,36 @@
 [![wakatime](https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg)](https://wakatime.com/@6d8178e5-672f-4748-822a-19d296c7c179)
 
 
-### Hi there 👋
+### Hi there :wink:
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
 - 📫 How to reach me: nermineslimane@gmail.com
-
-### My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nermineslimane&show_icons=true&theme=radical&count_private=true&layout=compact)
-
-### My Most used laguages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermineslimane&hide=java,html&layout=compact)](https://github.com/nermineslimane/github-readme-stats)
-
-
-# Blog posts
+- 
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [What is .env ? How to Set up and test a .env file in Node?](https://dev.to/nermineslimane/what-is-env-how-to-set-up-and-test-a-env-file-in-node-18bl)
 - [How to structure your Express and Node.Js project](https://dev.to/nermineslimane/how-to-structure-your-express-and-nodejs-project-3bl)
 - [Hello world in nodeJS](https://dev.to/nermineslimane/hello-world-in-nodejs-35lm)
 <!-- BLOG-POST-LIST:END -->
-# StackOverflow Activity
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://dev.to/nermineslimane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nermine-slimane-810114159/r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14399705/nermineslimane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nermine.slimane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats]((https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+### My Most used laguages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermineslimane&hide=java,html&layout=compact)](https://github.com/nermineslimane/github-readme-stats)
+
+📈&nbsp;&nbsp;**My Stackoverflow Activity**
 <!-- STACKOVERFLOW:START -->
 - [Answer by nermineslimane for JSON file getting passed as JavaScript object in Express Node.js?](https://stackoverflow.com/questions/70693791/json-file-getting-passed-as-javascript-object-in-express-node-js/70694005#70694005)
 - [Answer by nermineslimane for Nodejs - Fetch file from url and send content to client](https://stackoverflow.com/questions/70677334/nodejs-fetch-file-from-url-and-send-content-to-client/70679804#70679804)
