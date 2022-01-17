@@ -32,6 +32,10 @@
   <summary><b>📈&nbsp;&nbsp;Stackoverflow&nbsp;activity</b></summary>
   <br/>
 <!-- STACKOVERFLOW:START -->
-
+- [Answer by nermineslimane for JSON file getting passed as JavaScript object in Express Node.js?](https://stackoverflow.com/questions/70693791/json-file-getting-passed-as-javascript-object-in-express-node-js/70694005#70694005)
+- [Answer by nermineslimane for Nodejs - Fetch file from url and send content to client](https://stackoverflow.com/questions/70677334/nodejs-fetch-file-from-url-and-send-content-to-client/70679804#70679804)
+- [Answer by nermineslimane for login authorization problem, does not pass the token](https://stackoverflow.com/questions/70669107/login-authorization-problem-does-not-pass-the-token/70669826#70669826)
+- [Answer by nermineslimane for NodeJs Cannot Find Module. Path and name are correct](https://stackoverflow.com/questions/70654088/nodejs-cannot-find-module-path-and-name-are-correct/70654178#70654178)
+- [Answer by nermineslimane for How can i delete a file from my nodejs server](https://stackoverflow.com/questions/70654059/how-can-i-delete-a-file-from-my-nodejs-server/70654069#70654069)
 <!-- STACKOVERFLOW:END -->
   </details>
