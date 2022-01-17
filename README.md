@@ -20,6 +20,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is .env ? How to Set up and test a .env file in Node?](https://dev.to/nermineslimane/what-is-env-how-to-set-up-and-test-a-env-file-in-node-18bl)
 - [How to structure your Express and Node.Js project](https://dev.to/nermineslimane/how-to-structure-your-express-and-nodejs-project-3bl)
 - [Hello world in nodeJS](https://dev.to/nermineslimane/hello-world-in-nodejs-35lm)
 <!-- BLOG-POST-LIST:END -->
