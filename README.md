@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg)](https://wakatime.com/@6d8178e5-672f-4748-822a-19d296c7c179)
 
 
-### Hi there :wink:
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
