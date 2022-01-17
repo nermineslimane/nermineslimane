@@ -28,12 +28,8 @@
 
 ![Wwakatime stats]((https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>📈&nbsp;&nbsp;Stackoverflow&nbsp;activity</b></summary>
   <br/>
-### My Most used laguages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermineslimane&hide=java,html&layout=compact)](https://github.com/nermineslimane/github-readme-stats)
-
-📈&nbsp;&nbsp;**My Stackoverflow Activity**
 <!-- STACKOVERFLOW:START -->
 - [Answer by nermineslimane for JSON file getting passed as JavaScript object in Express Node.js?](https://stackoverflow.com/questions/70693791/json-file-getting-passed-as-javascript-object-in-express-node-js/70694005#70694005)
 - [Answer by nermineslimane for Nodejs - Fetch file from url and send content to client](https://stackoverflow.com/questions/70677334/nodejs-fetch-file-from-url-and-send-content-to-client/70679804#70679804)
@@ -41,4 +37,4 @@
 - [Answer by nermineslimane for NodeJs Cannot Find Module. Path and name are correct](https://stackoverflow.com/questions/70654088/nodejs-cannot-find-module-path-and-name-are-correct/70654178#70654178)
 - [Answer by nermineslimane for How can i delete a file from my nodejs server](https://stackoverflow.com/questions/70654059/how-can-i-delete-a-file-from-my-nodejs-server/70654069#70654069)
 <!-- STACKOVERFLOW:END -->
-
+  </details>
