@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
 
-📕 &nbsp;**Github trophies**
+🏆 &nbsp;**Github trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark"/> 
 </p>
