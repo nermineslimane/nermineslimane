@@ -7,7 +7,7 @@
 <p align="center">
   
   <img src="https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg"/> 
- <img src="https://stackexchange.com/users/flair/19670331.png?theme=dark"/> 
+
     <a href="https://stackexchange.com/users/19670331">
     <img src="https://stackexchange.com/users/flair/19670331.png?theme=dark"/> 
   </a> 
