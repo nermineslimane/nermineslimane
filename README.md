@@ -26,7 +26,7 @@
 
 🏆 &nbsp;**Github trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark"/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=nermineslimane&theme=onedark"/> 
 </p>
 
  ⚡&nbsp;**Technologies**
