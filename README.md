@@ -7,6 +7,7 @@
 <p align="center">
   
   <img src="https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg"/> 
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=nermineslimane"/>
 <br/>
 <a href="https://stackexchange.com/users/19670331"><img src="https://stackexchange.com/users/flair/19670331.png" width="208" height="58" alt="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <br/>
