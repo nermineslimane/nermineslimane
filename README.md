@@ -64,9 +64,9 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-  
+  <p align="center">
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nermineslimane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <details>
   <summary><b>📈&nbsp;&nbsp;Stackoverflow&nbsp;activity</b></summary>
   <br/>
