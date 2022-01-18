@@ -7,9 +7,8 @@
 <p align="center">
   
   <img src="https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg"/> 
+<a href="https://stackexchange.com/users/19670331"><img src="https://stackexchange.com/users/flair/19670331.png" width="208" height="58" alt="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-    <a align="center" href="https://stackexchange.com/users/19670331"><img src="https://stackexchange.com/users/flair/19670331.png?theme=dark" width="208" height="58" alt="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-<br/>
   </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
