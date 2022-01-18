@@ -11,6 +11,13 @@
  <img src="https://img.shields.io/github/followers/nermineslimane?label=Follow&style=social"/>
 
 <br/>
+  <p align="center">
+<a href="https://wakatime.com/@6d8178e5-672f-4748-822a-19d296c7c179"><img src="https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c1794.svg?style=social" alt="wakatime"></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3nermineslimane+archived%3Afalse+is%3Aclosed"><img src="https://img.shields.io/github/stars/nermineslimane?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+<a href="https://github.com/nermineslimane?tab=followers"><img src="https://img.shields.io/github/followers/nermineslimane?&logoColor=red&style=social" alt="GitHub followers"></a>
+
+</p>
+
 <a href="https://stackexchange.com/users/19670331"><img src="https://stackexchange.com/users/flair/19670331.png" width="208" height="58" alt="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <br/>
    </p>
