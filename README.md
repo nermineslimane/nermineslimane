@@ -1,7 +1,7 @@
 
 
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a align="center" href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <h1 align="center"> I'm Nermine SLIMANE</h1>
 <h3 align="center">A passionate software engineer from Tunisia</h3>
 <p align="center">
