@@ -12,7 +12,8 @@
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  </p>
+</p>
+  
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
