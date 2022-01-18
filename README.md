@@ -19,6 +19,11 @@
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
 
+📕 &nbsp;**Github trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark"/> 
+</p>
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [What is .env ? How to Set up and test a .env file in Node?](https://dev.to/nermineslimane/what-is-env-how-to-set-up-and-test-a-env-file-in-node-18bl)
