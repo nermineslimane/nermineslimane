@@ -12,8 +12,11 @@
 <a href="https://stackexchange.com/users/19670331"><img src="https://stackexchange.com/users/flair/19670331.png" width="208" height="58" alt="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
  </p>
   
+<p align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark"/> 
+  </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
