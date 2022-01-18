@@ -48,12 +48,14 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
+
 <p align="center" align='right'>
   <a target="_blank"href="https://dev.to/nermineslimane"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </p>
 
-<!-- BLOG-POST-LIST:END -->
+
 
 🔗 &nbsp;**Connect with me**
 <p align="center">
