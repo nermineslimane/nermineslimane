@@ -10,7 +10,7 @@
 
     <a href="https://stackexchange.com/users/19670331">
     <img src="https://stackexchange.com/users/flair/19670331.png?theme=dark"/> 
-  </a> 
+    </a>
   </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
