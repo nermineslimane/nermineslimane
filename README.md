@@ -22,7 +22,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark"/> 
 </p>
 
-## ⚡ Technologies
+ ⚡&nbsp;**Technologies**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
