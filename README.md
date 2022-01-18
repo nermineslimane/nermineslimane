@@ -1,11 +1,15 @@
 
+
+
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="center">Hi 👋, I'm Nermine SLIMANE</h1>
+<h3 align="center">A passionate software engineer from Tunisia</h3>
+
 <a href="https://stackexchange.com/users/19670331"><img src="https://stackexchange.com/users/flair/19670331.png?theme=dark" width="208" height="58" alt="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for nermineslimane on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <br/>
 [![wakatime](https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg)](https://wakatime.com/@6d8178e5-672f-4748-822a-19d296c7c179)
 <br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=nermineslimane&title=Commits,Repositories,Stars,Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 - 🔭 I’m currently working on Cynoia platform
 - 🌱 I’m currently learning Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
