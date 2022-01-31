@@ -91,10 +91,10 @@
   <summary><b>📈&nbsp;&nbsp;Stackoverflow&nbsp;activity</b></summary>
   <br/>
 <!-- STACKOVERFLOW:START -->
-- [Answer by nermineslimane for Is there an API for Google Reviews to initate a &quot;note and take down&quot; process](https://stackoverflow.com/questions/70924878/is-there-an-api-for-google-reviews-to-initate-a-note-and-take-down-process/70925290#70925290)
 - [Answer by nermineslimane for npm ERR! when trying to install bcrypt on npm nodejs](https://stackoverflow.com/questions/70896941/npm-err-when-trying-to-install-bcrypt-on-npm-nodejs/70897019#70897019)
 - [Answer by nermineslimane for How to secure Restful api from payload manipulation](https://stackoverflow.com/questions/70833669/how-to-secure-restful-api-from-payload-manipulation/70838421#70838421)
 - [how to Calculate sum of multiple durations moment-js?](https://stackoverflow.com/questions/70833593/how-to-calculate-sum-of-multiple-durations-moment-js)
 - [Answer by nermineslimane for Sequelize: Querying a through table](https://stackoverflow.com/questions/70806194/sequelize-querying-a-through-table/70814729#70814729)
+- [Answer by nermineslimane for Use Array.filter to return values for a set number of items](https://stackoverflow.com/questions/70785915/use-array-filter-to-return-values-for-a-set-number-of-items/70786039#70786039)
 <!-- STACKOVERFLOW:END -->
   </details>
