@@ -61,11 +61,11 @@
 <p  align='letf'>
 
   <!-- BLOG-POST-LIST:START -->
+- [Concepts every programmer should know !](https://dev.to/nermineslimane/concepts-every-programmer-should-know--5a5n)
+- [Top 3 GitHub repositories to improve your coding skills.](https://dev.to/nermineslimane/top-3-github-repositories-to-improve-your-coding-skills-39c3)
 - [Moleculer ?](https://dev.to/nermineslimane/moleculer--k2o)
 - [Cookies Vs Local storage Vs Session storage](https://dev.to/nermineslimane/cookies-vs-local-storage-vs-session-storage-1i59)
 - [My github readme page](https://dev.to/nermineslimane/my-github-readme-page-3amd)
-- [Always separate app and server files !](https://dev.to/nermineslimane/always-separate-app-and-server-files--1nc7)
-- [What is .env ? How to Set up and test a .env file in Node?](https://dev.to/nermineslimane/what-is-env-how-to-set-up-and-test-a-env-file-in-node-18bl)
 <!-- BLOG-POST-LIST:END -->
 </p>
   
