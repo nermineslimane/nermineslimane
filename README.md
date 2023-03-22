@@ -3,7 +3,7 @@
 
 ### Hi there <a align="center" href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <h1 align="center"> I'm Nermine SLIMANE</h1>
-<h3 align="center">A passionate software engineer from Tunisia</h3>
+<h3 align="center">A passionate software engineer consultant</h3>
 <p align="center">
   
   <img src="https://wakatime.com/badge/user/6d8178e5-672f-4748-822a-19d296c7c179.svg?style=social"/> 
@@ -20,8 +20,8 @@
    </p>
 
 
-- 🔭 I’m currently working on Cynoia platform
-- 🌱 I’m currently learning Backend technologies
+- 🔭 I’m currently working as an engineering consultant providing cutting edge solutions
+- 🌱 I’m currently working with most Backend technologies
 - 💬 Ask me about Backend technos such as NodeJS,  express, Sequelize, AWS s3 , Google APIs, Dropbox API ...
 
 🏆 &nbsp;**Github trophies**
